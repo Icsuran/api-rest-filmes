@@ -10,7 +10,7 @@
 
 ## Rotas:
 
-* Listar: http://127.0.0.1/
+* Listar: http://127.0.0.1
 * Atualizar: http://127.0.0.1/atualizar/<id>/<titulo>/<sinopse>
 * Criar: http://127.0.0.1/criar/<titulo>/<sinopse>
 * Deletar: http://127.0.0.1/deletar/<id>
