@@ -2,7 +2,7 @@
 
 ## Setup
 
-* BD: PostgreSQL (host: localhost, port=5432, username=postgres, password=postgres, dbaname=ubots)
+* BD: PostgreSQL (host: localhost, port=5432, username=postgres, password=postgres, dbname=ubots)
 * Conexão Python-PostgreSQL: psycopg2
 * Linguagem: Python
 * Framework: Flask
